@@ -25,5 +25,5 @@ Here i have attached some screenshots but for the better understanding feel free
 </p>
 
 <p align="center">
-<img src="Demo img/Mobile view.gif"><br>
+<img src="Demo img/Mobile view.gif" width="400" height="600"><br>
 </p>
